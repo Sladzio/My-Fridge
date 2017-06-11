@@ -5,7 +5,7 @@ My Fridge is an app that can halp you easily find new recipes using products you
 
 Here you can find downloaded APK: https://goo.gl/VgQqs8
 
-And here you can report existing bugs or give opinion about the app: goo.gl/9KqGuI
+And here you can report existing bugs or give opinion about the app: https://goo.gl/9KqGuI
 
 We hope you will enjoy it :)
 
