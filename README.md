@@ -11,6 +11,10 @@ And here you can report existing bugs or give us opinion about the app: https://
 We hope you will enjoy it :)
 
 <img src="https://github.com/apneah/My-Fridge/blob/master/1.jpg" width="200">
+<img src="https://github.com/apneah/My-Fridge/blob/master/2.jpg" width="200">
+<img src="https://github.com/apneah/My-Fridge/blob/master/3.jpg" width="200">
+<img src="https://github.com/apneah/My-Fridge/blob/master/4.jpg" width="200">
+<img src="https://github.com/apneah/My-Fridge/blob/master/5.jpg" width="200">
 
 
 My Fridge app was developed under **Idea Factory section of _BIT AGH Scientific Group** by 5 person team:
