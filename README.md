@@ -1,4 +1,4 @@
-## Welcome to My Fridge App GitHub Page!
+## Welcome to My Fridge project on GitHub!
 
 #### My Fridge is an app that can halp you easily find new recipes using products you have in your fridge. ####
 It uses https://www.edamam.com public API.
