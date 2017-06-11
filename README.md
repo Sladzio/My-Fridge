@@ -4,8 +4,11 @@ My Fridge is an app that can halp you easily find new recipes using products you
 
 
 Here you can find downloaded APK: https://goo.gl/VgQqs8
+
 And here you can report existing bugs or give opinion about the app: goo.gl/9KqGuI
+
 We hope you will enjoy it :)
+
 
 My Fridge app was developed under Idea Factory section of BIT AGH Scientific Group by 5 person team:
 Android: Aleksandra Gontarz, Aleksandra Byczyńska, Przemek Kalawski
