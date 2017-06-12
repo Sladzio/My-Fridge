@@ -15,6 +15,6 @@ We hope you will enjoy it :)
 
 My Fridge app was developed under **Idea Factory section of BIT AGH Scientific Group** by 5 person team:
 
-* Android: **Aleksandra Gontarz, Aleksandra Byczyńska, Przemek Kalawski**
+* Android: **Aleksandra Byczyńska, Aleksandra Gontarz, Przemek Kalawski**
 
 * Server: **Dawid Dański, Patryk Sładek**
