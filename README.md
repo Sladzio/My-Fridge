@@ -6,6 +6,8 @@ It uses https://www.edamam.com public API.
 
 Here you can find **APK** for download and installation: https://goo.gl/cqgkp2
 
+The code is available here: https://bitbucket.org/aghbit/if-fridge
+
 
 We hope you will enjoy it :)
 
