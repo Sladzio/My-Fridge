@@ -6,7 +6,6 @@ It uses https://www.edamam.com public API.
 
 Here you can find **APK** for download and installation: https://goo.gl/cqgkp2
 
-And here you can report existing bugs or give us opinion about the app: https://goo.gl/9KqGuI
 
 We hope you will enjoy it :)
 
